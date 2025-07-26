@@ -58,7 +58,7 @@
 
 - 📧 Email: youx8026@gmail.com  
 - 🌐 [My Portfolio](https://emp-912.github.io)  
-- 💼 [My Resume (PDF)](https://github.com/emp-912/Resume2025.pdf)
+- 💼 [My Resume (PDF)](https://github.com/emp-912/emp-912/blob/main/Resume%202025.pdf)
 
 ---
 
